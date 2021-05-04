@@ -24,3 +24,5 @@ Connect with me on LinkedIn!
   </a>
 </p>
 [![Matthew St Claire Medium](https://github-readme-medium.vercel.app/?username=matthew-stclaire)](https://medium.com/@matthew-stclaire)
+
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@omidnikrah)
