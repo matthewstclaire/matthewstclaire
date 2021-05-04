@@ -20,8 +20,9 @@
 
 </p>
 <br>
-
+<p align="center">
 If you are interested in reading more about my writing feel free to view my latest article on Medium.
+</p> 
 <br>
 
 [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=matthew-stclaire)](https://medium.com/@matthew-stclaire)
