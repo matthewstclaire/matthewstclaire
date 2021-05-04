@@ -11,4 +11,4 @@
   <li>My whole family and I train Brazilian Jiu-Jitsu. If you train then feel free to connect on this with me!</li>
  </ul>
 
-[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewstclaire&hide=stars, issues)](https://github.com/matthewstclaire/github-readme-stats)
+[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewstclaire&hide=stars,issues)](https://github.com/matthewstclaire/github-readme-stats)
