@@ -2,7 +2,7 @@
 
 ### My name is Matthew. I am a Full-Stack Developer based in Salt Lake City, UT.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewstclaire)](https://github.com/matthewstclaire/github-readme-stats)
+
 
 ### Bio
 <ul>
@@ -10,3 +10,5 @@
   <li>A father of an incredible 8 year old. Many of the projects I build have her in mind.</li>
   <li>My whole family and I train Brazilian Jiu-Jitsu. If you train then feel free to connect on this with me!</li>
  </ul>
+
+[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewstclaire&count_private=true)](https://github.com/matthewstclaire/github-readme-stats)
