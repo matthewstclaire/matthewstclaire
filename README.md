@@ -15,7 +15,6 @@
 [![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewstclaire&hide=stars,issues)](https://github.com/matthewstclaire/github-readme-stats)
 
 
-
 <p align="center">
 Connect with me on LinkedIn!
   <br>
@@ -24,6 +23,5 @@ Connect with me on LinkedIn!
   </a>
 </p>
 
+If you are interested in reading more about my writing feel free to view my latest article on Medium.
 [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=matthew-stclaire)](https://medium.com/@matthew-stclaire)
-
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@omidnikrah)
