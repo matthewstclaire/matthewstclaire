@@ -11,10 +11,12 @@
   <li><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24"><path fill="none" d="M0 0h24v24H0z"/><path d="M9.5 11l.144.007a1.5 1.5 0 0 1 1.35 1.349L11 12.5l-.007.144a1.5 1.5 0 0 1-1.349 1.35L9.5 14H6v2h3.5c1.7 0 3.117-1.212 3.434-2.819l.03-.18L19 13c.711 0 1.388-.149 2-.416V17a3.001 3.001 0 0 1-2 2.829V21a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1v-1.17A3.001 3.001 0 0 1 3 17v-4a2 2 0 0 1 2-2h4.5zM22 7.5V8l-.005.176a3 3 0 0 1-2.819 2.819L19 11h-6.337a3.501 3.501 0 0 0-2.955-1.994L9.5 9H5c-.729 0-1.412.195-2.001.536L3 6a4 4 0 0 1 4-4h9.5A5.5 5.5 0 0 1 22 7.5z" fill="rgba(50,152,219,1)"/></svg>My whole family and I train Brazilian Jiu-Jitsu. If you train then feel free to connect on this with me!</li>
  </ul>
 
+<p align="center">
 [![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewstclaire&hide=stars,issues)](https://github.com/matthewstclaire/github-readme-stats)
+ </p>
 
-Feel free to connect with me on LinkedIn!
-
+<p align="center">
+Connect with me on LinkedIn!
 <a href="https://www.linkedin.com/in/matthewstclaire/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
