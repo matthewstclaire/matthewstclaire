@@ -12,13 +12,10 @@
  </ul>
 <br>
 
-[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewstclaire&hide=stars,issues)](https://github.com/matthewstclaire/github-readme-stats)
-<br>
-<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=matthewstclaire&hide=stars,issues&theme=vue" />
 
 
 </p>
-<br>
 <br>
 
 If you are interested in reading more about my writing feel free to view my latest article on Medium.
