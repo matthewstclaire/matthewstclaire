@@ -12,7 +12,7 @@
  </ul>
 
 
-(https://github-readme-stats.vercel.app/api?username=matthewstclaire&hide=stars,issues)](https://github.com/matthewstclaire/github-readme-stats)
+[![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewstclaire&hide=stars,issues)](https://github.com/matthewstclaire/github-readme-stats)
 
 
 
@@ -23,3 +23,4 @@ Connect with me on LinkedIn!
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+[![Matthew St Claire Medium](https://github-readme-medium.vercel.app/?username=matthew-stclaire)](https://medium.com/@matthew-stclaire)
