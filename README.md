@@ -23,6 +23,7 @@ Connect with me on LinkedIn!
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-[![Matthew St Claire Medium](https://github-readme-medium.vercel.app/?username=matthew-stclaire)](https://medium.com/@matthew-stclaire)
+
+[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=matthew-stclaire)](https://medium.com/@matthew-stclaire)
 
 [![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=omidnikrah)](https://medium.com/@omidnikrah)
