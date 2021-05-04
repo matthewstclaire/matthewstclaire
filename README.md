@@ -1,6 +1,8 @@
-## Hi there 👋
+## Thank you for stopping by!
 
 ### My name is Matthew. I am a Full-Stack Developer based in Salt Lake City, UT.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewstclaire)](https://github.com/matthewstclaire/github-readme-stats)
 
 ### Bio
 <ul>
