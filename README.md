@@ -7,11 +7,10 @@
 **Bio**
 <ul>
   <li>:computer:  I am currently a QA Engineer with MX. We build great products to help make people financially strong.</li>
-  <li>:rocket:  Passionate about building strong UI, that has been my main focus.</li>
-  <li>:no_mouth:  Currently working with a top secret startup setting out to create a more customer centric product.  
-  <li>:pray:  Along with my side projects I am seeking a new full time opportunity. Somewhere supportive, yet challenging.</li>
+  <li>:rocket:  Outside of my QA work I am passionate about building strong UI, that has been my main focus.</li>
+  <li>:no_mouth:  I have a few personal projects I am working on. Always open to additional collaboration.</li>  
   <li>:heart:  A father of an incredible 8 year old. Many of the projects I build have her in mind.</li>
-  <li>:martial_arts_uniform:  My whole family and I train Brazilian Jiu-Jitsu. If you train then feel free to connect on this with me!</li>
+  <li>:martial_arts_uniform:  When I am not programming or testing I am training Jiu-Jitsu with my whole family.</li>
  </ul>
 <br>
 
