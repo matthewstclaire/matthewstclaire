@@ -6,7 +6,7 @@
 
 **Bio**
 <ul>
-  <li>:computer:  I started programming in Ruby due to it's easy to read format. Since that time I now spend the majority of my time in Javascript and React.</li>
+  <li>:computer:  I am currently a QA Engineer with MX. We build great products to help make people financially strong.</li>
   <li>:rocket:  Passionate about building strong UI, that has been my main focus.</li>
   <li>:no_mouth:  Currently working with a top secret startup setting out to create a more customer centric product.  
   <li>:pray:  Along with my side projects I am seeking a new full time opportunity. Somewhere supportive, yet challenging.</li>
