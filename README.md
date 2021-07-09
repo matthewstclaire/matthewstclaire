@@ -18,15 +18,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=matthewstclaire&hide=stars,issues&theme=vue" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewstclaire&hide=less,php,scss,issues&theme=vue" />
 
 
-</p>
-<br>
-<p align="center">
-If you are interested in reading more about my writing feel free to view my latest article on Medium.
-</p> 
-<br>
-
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=matthew-stclaire)](https://medium.com/@matthew-stclaire)
-
 <p align="center">
 Connect with me on LinkedIn!
   <br>
