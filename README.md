@@ -10,7 +10,7 @@
   <li>:rocket:  Outside of my QA work I am passionate about building strong UI, that has been my main focus.</li>
   <li>:brain:  I love working in React and JS. Typically my backends have been built in Ruby, but hoping to branch out from that.</li>
   <li>:no_mouth:  I have a few personal projects I am working on. Always open to additional collaboration.</li>  
-  <li>:heart:  A father of an incredible 8 year old. Many of the projects I build have her in mind.</li>
+  <li>:heart:  A father of an incredible 9 year old. Many of the projects I build have her in mind.</li>
   <li>:martial_arts_uniform:  When I am not programming or testing I am training Jiu-Jitsu with my whole family.</li>
  </ul>
 <br>
