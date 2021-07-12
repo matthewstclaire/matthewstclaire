@@ -19,7 +19,7 @@
 
 
 <p align="center">
-Connect with me on LinkedIn!
+Connect with me on LinkedIn! Note that my profile is public and you will need to be logged in to view it.
   <br>
 <a href="https://www.linkedin.com/in/matthewstclaire/">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
