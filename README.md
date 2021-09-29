@@ -6,7 +6,7 @@
 
 **Bio**
 <ul>
-  <li>:computer:  I am currently a QA Engineer with MX. We build great products to help make people financially strong.</li>
+  <li>:computer:  I am currently a QA Engineer with MX. We build great products to help make people financially strong. We work in Gitlab so my contributions have fallen off for Github. However, I will be starting some personal projects soon.</li>
   <li>:rocket:  Outside of my QA work I am passionate about building strong UI, that has been my main focus.</li>
   <li>:brain:  I love working in React and JS. Typically my backends have been built in Ruby, but hoping to branch out from that.</li>
   <li>:no_mouth:  I have a few personal projects I am working on. Always open to additional collaboration.</li>  
